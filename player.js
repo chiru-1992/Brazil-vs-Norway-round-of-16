@@ -3,11 +3,11 @@ const players = [
 id:1,
 brazil:{
 name:"Alex Sandro",
-image:"players/alex_sandro.jpg"
+image:"brazil/alex_sandro.jpg"
 },
 norway:{
 name:"Erling Haaland",
-image:"players/erling_haaland.jpg"
+image:"norway/erling_haaland.jpg"
 }
 },
 
@@ -15,11 +15,11 @@ image:"players/erling_haaland.jpg"
 id:2,
 brazil:{
 name:"Bremer",
-image:"players/bremer.jpg"
+image:"brazil/bremer.jpg"
 },
 norway:{
 name:"Martin Odegaard",
-image:"players/martin_odegaard.jpg"
+image:"norway/martin_odegaard.jpg"
 }
 },
 
@@ -27,12 +27,11 @@ image:"players/martin_odegaard.jpg"
 id:3,
 brazil:{
 name:"Danilo",
-image:"players/danilo.jpg"
+image:"brazil/danilo.jpg"
 },
 norway:{
 name:"Alexander Sorloth",
-image:"players/alexander_sorloth.jpg"
+image:"norway/alexander_sorloth.jpg"
 }
 }
-
 ];
